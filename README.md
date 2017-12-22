@@ -4,3 +4,5 @@
 [my alias](https://github.com/thanhnguyenduy2304/C-Commandline/blob/master/alias.md)
 
 Search Tool: [Beagle](https://ubuntuforums.org/showthread.php?t=182201)
+
+Vim Key List: [VIM](https://hea-www.harvard.edu/~fine/Tech/vi.html)
