@@ -5,4 +5,4 @@
 
 Search Tool: [Beagle](https://ubuntuforums.org/showthread.php?t=182201)
 
-Vim Key List: [VIM](https://hea-www.harvard.edu/~fine/Tech/vi.html)
+Vim Key List: [VIM](http://www.openvim.com)
