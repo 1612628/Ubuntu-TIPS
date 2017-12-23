@@ -8,3 +8,5 @@ Search Tool: [Beagle](https://ubuntuforums.org/showthread.php?t=182201)
 Vim Key List: [VIM](http://www.openvim.com)
 
 RedShift Command: [RedShift](https://www.maketecheasier.com/protect-eyes-redshift-linux/)
+
+Fluxgui in linux: [Flux](https://github.com/xflux-gui/fluxgui)
