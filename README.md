@@ -19,3 +19,5 @@
 ls -a
 
 #Virtual Machine: [Qemu](https://www.unixmen.com/how-to-install-and-configure-qemu-in-ubuntu/)
+
+#Arch linux install tutorial: [arch](https://paste.ubuntu.com/23956628/a)
