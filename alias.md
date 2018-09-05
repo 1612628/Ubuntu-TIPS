@@ -3,4 +3,4 @@ alias ..='cd ..'
 
 alias q='exit'
 
-alias chrome= 'xdg-open http://gooogle.com'
+alias android='cd /usr/local/android-studio/bin && ./studio.sh'
