@@ -22,6 +22,9 @@ code --install-extension remimarsal.prettier-now;
 code --install-extension anseki.vscode-color;
 code --install-extension coenraads.bracket-pair-colorizer;
 code --install-extension qinjia.view-in-browser;
+code --install-extension naumovs.color-highlight;
+code --install-extension ritwickdey.LiveServer;
+code --install-extension ChakrounAnas.turbo-console-log;
 
 #From AnhLD2@vng.com.vn + Homepage: http://bigsonata.com/
 # Scripts to install essential extension for VsCode
