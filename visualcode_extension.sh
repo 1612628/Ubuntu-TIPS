@@ -25,6 +25,11 @@ code --install-extension qinjia.view-in-browser;
 code --install-extension naumovs.color-highlight;
 code --install-extension ritwickdey.LiveServer;
 code --install-extension ChakrounAnas.turbo-console-log;
+#MarkDown
+code --install-extension yzhang.markdown-all-in-one;
+code --install-extension shd101wyy.markdown-preview-enhanced;
+code --install-extension davidanson.vscode-markdownlint;
+code --install-extension alanwalk.markdown-toc;
 
 #From AnhLD2@vng.com.vn + Homepage: http://bigsonata.com/
 # Scripts to install essential extension for VsCode
