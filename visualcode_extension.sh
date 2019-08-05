@@ -30,6 +30,11 @@ code --install-extension yzhang.markdown-all-in-one;
 code --install-extension shd101wyy.markdown-preview-enhanced;
 code --install-extension davidanson.vscode-markdownlint;
 code --install-extension alanwalk.markdown-toc;
+#C/C++
+code --install-extension ms-vscode.cpptools;
+code --install-extension hars.cppsnippets;
+#Prettier
+code --install-extension esbenp.prettier-vscode;
 
 #From AnhLD2@vng.com.vn + Homepage: http://bigsonata.com/
 # Scripts to install essential extension for VsCode
