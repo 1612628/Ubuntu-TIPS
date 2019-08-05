@@ -1,3 +1,5 @@
+#Install 
+# chmod +x visualcode_extension.sh && ./visualcode_extension.sh
 #Web Development
 #----------------------------
 #HTML Extensions
@@ -36,6 +38,36 @@ code --install-extension hars.cppsnippets;
 code --install-extension austin.code-gnu-global;
 #Prettier
 code --install-extension esbenp.prettier-vscode;
+#Change-case
+code --install-extension wmaurer.change-case;
+#Code Spell Checker
+code --install-extension streetsidesoftware.code-spell-checker;
+#DuplicateSelection
+code --install-extension kkapsner.duplicateselection;
+#EditorConfig for VS Code
+code --install-extension EditorConfig.EditorConfig;
+#file-icons
+code --install-extension file-icons.file-icons;
+#Find Related Files
+code --install-extension eamodio.find-related;
+#GitLens — Git supercharged
+code --install-extension eamodio.gitlens;
+#	Project Manager
+code --install-extension alefragnani.project-manager;
+#saveBackup
+code --install-extension purplestone.savebackup;
+#Settings Sync
+code --install-extension Shan.code-settings-sync;
+#ESLint
+code --install-extension dbaeumer.vscode-eslint;
+#glean
+code --install-extension wix.glean;
+#npm Intellisense
+code --install-extension christian-kohler.npm-intellisense;
+#TSLint
+code --install-extension eg2.tslint;
+#Solarized
+code --install-extension ryanolsonx.solarized;
 
 #From AnhLD2@vng.com.vn + Homepage: http://bigsonata.com/
 # Scripts to install essential extension for VsCode
