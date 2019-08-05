@@ -33,6 +33,7 @@ code --install-extension alanwalk.markdown-toc;
 #C/C++
 code --install-extension ms-vscode.cpptools;
 code --install-extension hars.cppsnippets;
+code --install-extension austin.code-gnu-global;
 #Prettier
 code --install-extension esbenp.prettier-vscode;
 
